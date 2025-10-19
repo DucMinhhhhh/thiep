@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-loi-chuc",
+  "version": "1.0.0",
+  "description": "Dự án tạo mã QR hiển thị lời chúc với animation đẹp mắt",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "echo 'Hãy upload lên GitHub Pages, Netlify, hoặc Vercel để deploy'"
+  },
+  "keywords": [
+    "qr-code",
+    "greeting",
+    "animation",
+    "vietnamese"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
